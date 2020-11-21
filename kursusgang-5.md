@@ -1,6 +1,13 @@
-# Overskrift
+# 5 - Visualization
 
-## Noter til dagens tekst
+## Preparation
+
+Books - approx 44 pages   
+  - DDS 6. Visualizing Security Data 22, DDS 10. Designing Effective Security Dashboards 22   
+  - Skim: DDS 11. Building Interactive Security Visualizations 26   
+
+### Notes and question re: Preparation
+
 
 
 

@@ -1,6 +1,13 @@
-# Overskrift
+# 1 - Welcome, goals and expectations
 
-## Noter til dagens tekst
+## Preparation
+
+- Reviewing the literature list will occur when we meet.
+- Download resources
+- Identification of chapters from books for reading as home assignment
+- Start lab setup and asses programming knowledge
+
+### Notes and question re: Preparation
 
 
 
