@@ -12,5 +12,5 @@ Books: 23 pages, but also parts of CIP 7!
 
 ## Noter fra undervisningen
 
-![MindMap](https://github.com/krejac/kea-siem-log/media/SIEM.png)
+![MindMap](https://github.com/krejac/kea-siem-log/blob/master/media/SIEM.png)
 

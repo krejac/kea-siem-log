@@ -12,5 +12,5 @@ Books: about 61 pages, lots of pictures
 
 ## Noter fra undervisningen
 
-![MindMap](https://github.com/krejac/kea-siem-log/media/SIEM.png)
+![MindMap](https://github.com/krejac/kea-siem-log/blob/master/media/SIEM.png)
 
