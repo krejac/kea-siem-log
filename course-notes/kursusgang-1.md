@@ -2,9 +2,9 @@
 
 ## Preparation
 
-* [ ] Reviewing the literature list will occur when we meet.
+* [x] Reviewing the literature list will occur when we meet.
 * [x] Download resources
-* [ ] Identification of chapters from books for reading as home assignment
+* [x] Identification of chapters from books for reading as home assignment
 * [x] Start lab setup and asses programming knowledge
 
 ### Notes and question re: Preparation
