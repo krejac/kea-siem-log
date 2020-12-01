@@ -1,12 +1,12 @@
-# 3 - Hello world of Security Data Analysis
+# 4 - Storing and Processing data
 
 ## Preparation
 
-Books: about 61 pages, lots of pictures
+Books: 23 pages, but also parts of CIP 7!
 
-* [ ] DDS 3. Learning the "Hello World" of Security Data Analysis 31   
-* [ ] DDS 4. Performing Exploratory Security Data Analysis 30   
-* [ ] Do exercises if you feel like it, notice how small valuable programs can be   
+* [ ] CIP 4 A Data-Centric Approach to Security Monitoring 23   
+* [ ] Skim read: CIP 7 Tools of the Trade 57, need to know NetFlow, DNS, and HTTP proxy logs in the real-world   
+* [ ] Skim read: DDS 8. Breaking Up with Your Relational Database 25   
 
 ### Notes and question re: Preparation
 

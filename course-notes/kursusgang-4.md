@@ -1,12 +1,11 @@
-# 4 - Storing and Processing data
+# 5 - Visualization
 
 ## Preparation
 
-Books: 23 pages, but also parts of CIP 7!
+Books - approx 44 pages
 
-* [ ] CIP 4 A Data-Centric Approach to Security Monitoring 23   
-* [ ] Skim read: CIP 7 Tools of the Trade 57, need to know NetFlow, DNS, and HTTP proxy logs in the real-world   
-* [ ] Skim read: DDS 8. Breaking Up with Your Relational Database 25   
+* [ ] DDS 6. Visualizing Security Data 22, DDS 10. Designing Effective Security Dashboards 22   
+* [ ] Skim: DDS 11. Building Interactive Security Visualizations 26   
 
 ### Notes and question re: Preparation
 

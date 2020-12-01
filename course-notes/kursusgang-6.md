@@ -1,13 +1,11 @@
-# 6 - Baseline Your Data
+# 7 - Operate, Respond and Forensics
 
 ## Preparation
 
-Books - approx 64 pages
+Books - approx 68 pages
 
-* [ ] DDS 7. Learning from Security Breaches VERIS 28   
-* [ ] DDS 12. Moving Toward Data-Driven Security 11   
-* [ ] IDIR 1. Introduction 8   
-* [ ] IDIR 2. Basics of Intelligence 17   
+* [ ] SOC 7. vuln management 25, SOC 11. Reacting to events and Incidents 16, CIP 6 Operationalize! 27   
+* [ ] Papers: Skim table of contents Privacy by design in big data: An overview of privacy enhancing technologies in the era of big data analytics, ENISA
 
 ### Notes and question re: Preparation
 

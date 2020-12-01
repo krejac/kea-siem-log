@@ -1,11 +1,13 @@
-# 5 - Visualization
+# 6 - Baseline Your Data
 
 ## Preparation
 
-Books - approx 44 pages
+Books - approx 64 pages
 
-* [ ] DDS 6. Visualizing Security Data 22, DDS 10. Designing Effective Security Dashboards 22   
-* [ ] Skim: DDS 11. Building Interactive Security Visualizations 26   
+* [ ] DDS 7. Learning from Security Breaches VERIS 28   
+* [ ] DDS 12. Moving Toward Data-Driven Security 11   
+* [ ] IDIR 1. Introduction 8   
+* [ ] IDIR 2. Basics of Intelligence 17   
 
 ### Notes and question re: Preparation
 
