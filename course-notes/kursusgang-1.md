@@ -57,7 +57,7 @@ Start i det små for at vise værdien i et SIEM.
 - [ ] Setup notification and notification procedures
 
 
-*Læs op på Grok*
+*Læs op på Grok + maltrail*
 
 
 ![MindMap](https://github.com/krejac/kea-siem-log/blob/master/media/SIEM.png)
