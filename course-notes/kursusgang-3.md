@@ -48,6 +48,10 @@ Elastic SIEM Architecture slide 33
 
 **Slide 4**: Bemærk Redis queue til opsamling af data.
 
+**[Reporting for the Elastic Stack](https://www.elastic.co/what-is/kibana-reporting)** - Quickly generate reports of any Kibana visualization or dashboard. Get a report on demand, schedule it for later, trigger it based on specified conditions, and automatically share it with others — managers, customers, compliance officers. Ikke sikkert det er rigtig godt - rapport generering er en vigtig mangel ved Elastic stakken!
 
+**DNSDB** - [DNSDB](https://docs.dnsdb.info/) is a database that stores and indexes both the passive DNS data available via Farsight Security’s Security Information Exchange as well as the authoritative DNS data that various zone operators make available.
+
+**Spamhaus DROP** - The [Spamhaus DROP](https://www.spamhaus.org/drop/) (Don't Route Or Peer) lists are advisory "drop all traffic" lists, consisting of netblocks that are "hijacked" or leased by professional spam or cyber-crime operations (used for dissemination of malware, trojan downloaders, botnet controllers).
 
 ![MindMap](https://github.com/krejac/kea-siem-log/blob/master/media/SIEM.png)
