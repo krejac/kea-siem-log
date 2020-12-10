@@ -29,7 +29,7 @@ Books - approx 44 pages
 
 **Slide. 10**
 
-*Konferencer* (kig også historisk; mange gode gamle præsentationer): 
+*Konferencer* (kig også historisk; mange gode gamle præsentationer):
 - FloCon.
 - Zeek Week.
 - IEEE.
@@ -47,3 +47,6 @@ Books - approx 44 pages
   > When exchanging exterior routing information, each AS is identified by a unique number: the Autonomous System Number (ASN). An AS is also sometimes referred to as a routing domain.
 
   Kan udforskes på [LinxTelecom](https://lg.linxtelecom.com/).
+
+
+**N.B.** *Brugte en del tid på - efter dagens kursusgang - at få sat en Windows maskine op til at logge via WinLogbeats til Lab-maskinen. Det lykkedes til sidst. YAY!*
