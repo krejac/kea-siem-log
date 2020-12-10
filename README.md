@@ -2,8 +2,6 @@
 
 Noter til kurset “[SIEM og Loganalyse](https://kompetence.kea.dk/kurser-fag/siem-og-loganalyse)” på Københavns Erhvervs Akademi efterår 2020.
 
-Hver overskrift svarer til en kursusgang
-
 Litteratur:
 
 * Data-Driven Security: Analysis, Visualization and Dashboards Jay Jacobs, Bob Rudis ISBN: 978-1-118-79372-5 February 2014 [https://datadrivensecurity.info/](https://datadrivensecurity.info/)
